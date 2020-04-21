@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/pink</item>
+        <item name="colorAccent">@color/red</item>
+    </style>
+
+    <style name="splash" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="exampleToast">
+        <item name="colorBackground">@color/red</item>
+        <item name="textColor">@color/black</item>
+    </style>
+    <style name="pinktoast">
+        <item name="colorBackground">@color/pink</item>
+        <item name="textColor">@color/black</item>
+    </style>
+
+
+
+
+</resources>

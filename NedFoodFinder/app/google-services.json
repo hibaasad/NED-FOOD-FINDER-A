@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927847445643",
+    "firebase_url": "https://nedfoodfinder.firebaseio.com",
+    "project_id": "nedfoodfinder",
+    "storage_bucket": "nedfoodfinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927847445643:android:8ac701c507a2de9d16508e",
+        "android_client_info": {
+          "package_name": "com.example.nedfoodfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927847445643-h87cgd0fhu2b4vgmo5ttm7sov90sssgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBleRmu6c1G6khdKGnKZl-BSB7erU28mok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927847445643-h87cgd0fhu2b4vgmo5ttm7sov90sssgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

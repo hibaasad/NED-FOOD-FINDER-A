@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single"/>
+
+
+    <item android:title="@string/canteen_name"
+        android:id="@+id/Canteen"/>
+    <item android:title="Cart"
+        android:id="@+id/Cart"/>
+    <item android:title="Users"
+        android:id="@+id/users"/>
+    <item android:title="@string/sign_out"
+        android:id="@+id/sign_out"/>
+
+
+</menu>
